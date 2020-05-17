@@ -1,3 +1,10 @@
 {
-  "count":1
+  "app": {
+    "offlinePage": {
+      "title": {
+        "en-US": "Downloads",
+        "fr-FR": "Téléchargements"
+      }
+    }
+  }
 }
